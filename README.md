@@ -2,10 +2,10 @@
 Enterprise Order Management Platform built with Spring Boot microservices architecture, demonstrating scalable system design, service decoupling, event-driven communication, and production-ready engineering practices.
 
 ## Problem
-Kenapa sistem order perlu dipisah?
+Sistem order perlu dipisah
 
 ## Architecture Overview
-(image) -> on process
+<img width="844" height="865" alt="architecture" src="https://github.com/user-attachments/assets/603dfdf3-2d71-4e21-bff4-946b2e0488f7" />
 
 ## Tech Stack Decision
 Kenapa Spring Boot?
